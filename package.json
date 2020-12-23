@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/kowshik-sundararajan/jobs#readme",
   "dependencies": {
-    "axios": "^0.16.2",
+    "axios": "^0.21.1",
     "express": "^4.16.0",
     "hbs": "^4.0.1"
   },
